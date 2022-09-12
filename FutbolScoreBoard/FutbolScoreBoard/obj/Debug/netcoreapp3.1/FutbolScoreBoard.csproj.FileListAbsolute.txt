@@ -1,0 +1,13 @@
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.csprojAssemblyReference.cache
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.AssemblyInfoInputs.cache
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.AssemblyInfo.cs
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.csproj.CoreCompileInputs.cache
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.exe
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.deps.json
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.runtimeconfig.json
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.runtimeconfig.dev.json
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.dll
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\bin\Debug\netcoreapp3.1\FutbolScoreBoard.pdb
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.dll
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.pdb
+C:\Users\juagalla\Desktop\FutbolScoreBoard\FutbolScoreBoard\obj\Debug\netcoreapp3.1\FutbolScoreBoard.genruntimeconfig.cache
